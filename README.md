@@ -39,6 +39,10 @@ and then libraries.prettyprint(
 
 ### TODO
 
+## Example usage
+
+[Google Colab](https://colab.research.google.com/drive/1rf0bfXIfqYCkxHX1r4uFqtMhATL8sNbc?usp=sharing)
+
 ## This is a work in progress
 
 [Private Docs](https://docs.google.com/document/d/1kfTXVG3e2h-wfrDrf2Djm8JHqSaotT97RlesmV1fV0Y/edit?tab=t.0)
