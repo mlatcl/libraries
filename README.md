@@ -34,3 +34,5 @@ To enable refreshing libraries within notebook environments without restarting r
 No setup required.
 
 ## This is a work in progress
+
+[Private Docs](https://docs.google.com/document/d/1kfTXVG3e2h-wfrDrf2Djm8JHqSaotT97RlesmV1fV0Y/edit?tab=t.0)
