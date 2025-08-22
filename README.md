@@ -1,4 +1,4 @@
-# Library of Libraries ML@CL
+# Library ML@CL
 
 The purpose of the Library of Libraries (LLs) platform is to create a repository of artefacts to demonstrate the outputs of the research projects at the ML@CL research group. The platform tenets are:
 
@@ -21,8 +21,6 @@ The ML@CL website is available [here](https://mlatcl.github.io/). It is a GitHub
 
 ### llm
 
-
-
 *Setup:*
 Make sure to include `OPENAI_API_KEY` and/or `OPENROUTER_API_KEY` as environment variables.
 
@@ -32,6 +30,14 @@ To enable refreshing libraries within notebook environments without restarting r
 
 *Setup:*
 No setup required.
+
+## Additional 
+
+### TODO (eg. prettyprint.py)
+To install, call libraries.add('prettyprint')
+and then libraries.prettyprint(
+
+### TODO
 
 ## This is a work in progress
 
